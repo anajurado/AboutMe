@@ -78,6 +78,7 @@ struct ContentView: View {
             .shadow(radius: 12)
             .padding()
         }
+        HStack{}
     }
 }
 
